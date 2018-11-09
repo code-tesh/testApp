@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/code-tesh/testApp/issues"
   },
-  "homepage": "https://github.com/code-tesh/testApp#readme"
+  "homepage": "https://github.com/code-tesh/testApp#readme",
+  "dependencies": {
+    "array-sort": "^1.0.0"
+  }
 }
